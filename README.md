@@ -2,4 +2,6 @@
 # CSCI 3323 Spring 2024
 # Git Assignment
 # Andrew Lambert
+I do not know what I am doing, I hope this works.
 I think that this is working
+
