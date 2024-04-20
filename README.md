@@ -3,3 +3,4 @@
 # Git Assignment
 # Andrew Lambert
 I think that this is working
+The network graph is really screwed up so we'll see if it works
